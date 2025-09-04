@@ -1,0 +1,12 @@
+
+# Build files
+*.log
+.env
+*.key
+/build/
+/bin/
+/obj/
+*.o
+*.out
+*.exe
+.vscode/
